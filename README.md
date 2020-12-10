@@ -11,7 +11,7 @@
 
 ## About <a name = "about"></a>
 
-Desarrollo Web, Ciberseguridad y Machine Learning
+Ingeniería de Software | Seguridad Informática | Machine Learning
 
 ## Getting Started <a name = "getting_started"></a>
 
