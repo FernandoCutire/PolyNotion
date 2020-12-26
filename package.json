@@ -1,0 +1,27 @@
+{
+  "name": "polynotion",
+  "version": "1.0.0",
+  "description": "my project page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:sass": "sass watch sass/main.scss css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FernandoC1217/PolyNotion.git"
+  },
+  "keywords": [
+    "polynotion",
+    "tech"
+  ],
+  "author": "Fernando Cutire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FernandoC1217/PolyNotion/issues"
+  },
+  "homepage": "https://github.com/FernandoC1217/PolyNotion#readme",
+  "dependencies": {
+    "sass": "^1.30.0"
+  }
+}
